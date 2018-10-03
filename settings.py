@@ -15,7 +15,7 @@ class Settings():
         self.ship_limit = 3
 
         # 子弹的设置
-        self.bullet_width = 300
+        self.bullet_width = 3
         self.bullet_height = 15
         self.bullet_color = 0, 0, 0
         self.bullets_allowed = 3
