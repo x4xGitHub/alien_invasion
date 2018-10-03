@@ -5,7 +5,7 @@ learning project from book "Python Crash Course"
 ## 游戏玩法
 - 操作  
     | 按键    | 行为        |
-    | :-:     | :-:         |
+    | :------:| :-------:   |
     | p play  | 开始游戏     |
     | ↑ up    | 玩家向上移动 |
     | ↓ down  | 玩家向下移动 |
