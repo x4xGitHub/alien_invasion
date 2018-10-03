@@ -4,15 +4,15 @@ learning project from book "Python Crash Course"
 
 ## 游戏玩法
 - 操作  
-    | 按键    | 行为        |
-    | :------:| :-------:   |
-    | p play  | 开始游戏     |
-    | ↑ up    | 玩家向上移动 |
-    | ↓ down  | 玩家向下移动 |
-    | ← right | 玩家向左移动 |
-    | → left  | 玩家向右移动 |
-    | space   | 玩家开火     |
-    | q quit  | 退出游戏     |
+    按键    | 行为
+    :-----: | :------:
+    p play  | 开始游戏
+    ↑ up    | 玩家向上移动
+    ↓ down  | 玩家向下移动
+    ← right | 玩家向左移动
+    → left  | 玩家向右移动
+    space   | 玩家开火
+    q quit  | 退出游戏
 
 - 目标  
     合理操作, 挑战关卡, 将每一关的外星人飞船尽可能的消灭, 提升等级(Level, 其实可以说是关卡数), 取得越多的得分(Score)
